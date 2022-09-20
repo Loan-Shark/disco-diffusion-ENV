@@ -1,0 +1,15 @@
+*.*
+*
+!.gitignore
+!images_out
+!images_out/*
+!images_out/Albus
+!images_out/Albus/*
+!images_out/Magical Forests
+!images_out/Magical Forests/*
+!images_out/Saved
+!images_out/Saved/*
+!images_out/Space
+!images_out/Space/*
+!images_out/TimeToDisco
+!images_out/TimeToDisco/*
